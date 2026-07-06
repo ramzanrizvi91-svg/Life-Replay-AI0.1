@@ -1,0 +1,6 @@
+{
+  "name": "Life Replay AI",
+  "description": "Replay your day, analyze your screenshots, and design a better tomorrow with your future-self AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
